@@ -3,7 +3,7 @@
 Alarian Empire X4 Budgeted Start Save-game (NOT MODIFIED) (4.7 Billion Networth) (Time Spent in SETA: 202 Minutes) (Gamesave hours without SETA: 45)
 
 With a massive economy already developed and under your command... and the foundations of another ready to be built upon... can YOU
-lead the Alarian Empire and save the X4 Universe from the ever expanding Xenon threat? The Xenon were thought to be under the control of the Terran Intervention Forces with the aid of the ever expanding Alarian economy; they have failed. The Xenon have successfully invaded Hatikva's Choice in-force and are on track to completely take over the sector if we do not send aid immediately. This is only the beginning... we have no intelligence of the other Xenon sectors... what are we to do?
+lead the Alarian Empire and save the X4 Universe from the ever expanding Xenon threat? The Xenon were thought to be under the control of the Terran Intervention Forces with the aid of the ever expanding Alarian economy; they have failed. The Xenon have successfully invaded Hatikva's Choice in-force and are on track to completely take over the sector if we do not send aid immediately. This is only the beginning... we have no intelligence of the other Xenon home sectors... are the Xenon invading across the universe? What are we to do?
 
 
 - Massive budgeted start built economy in TER space (Saturn and the Asteroid Belt + a Solar Supply Station in Mercury). (PS Failed-Order ships are STILL working! Check Behavior.)
