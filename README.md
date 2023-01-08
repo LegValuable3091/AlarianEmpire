@@ -4,7 +4,7 @@ With a massive economy already developed and under your command... with the foun
 lead the Alarian Empire and save the X4 Universe from the ever expanding Xenon threat?
 
 
-- Massive budgeted start built economy in TER space (Saturn and the Asteroid Belt + a Solar Supply Station in Mercury).
+- Massive budgeted start built economy in TER space (Saturn and the Asteroid Belt + a Solar Supply Station in Mercury). (PS Failed-Order ships are STILL working!)
 - Homestation is equipped with a Wharf, XL Dock, and Repair Wharf. The empire is capable of producing Alarian ships SOLELY off of Alarian outputs alone... do not underestimate our own economy!
 - Foundation for another economy ready to be built upon in PIO space.
 - ARG is under attack from the Xenon in Hatikva! THIS SECTOR CANNOT FALL! The rapid response forces of the Alarian, Argon, and Terran empires have been wiped out 
