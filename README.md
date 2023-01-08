@@ -6,7 +6,7 @@ With a massive economy already developed and under your command... and the found
 lead the Alarian Empire and save the X4 Universe from the ever expanding Xenon threat? The Xenon were thought to be under the control of the Terran Intervention Forces with the aid of the ever expanding Alarian economy; they have failed. The Xenon have successfully invaded Hatikva's Choice in-force and are on track to completely take over the sector if we do not send aid immediately. This is only the beginning... we have no intelligence of the other Xenon home sectors... are the Xenon invading across the universe? What are we to do?
 
 
-- Massive budgeted start built economy in TER space (Saturn and the Asteroid Belt + a Solar Supply Station in Mercury). (PS Failed-Order ships are STILL working! Check Behavior.)
+- Massive budgeted start built economy in TER space (Juipter and the Asteroid Belt + a Solar Supply Station in Mercury). (PS Failed-Order ships are STILL working! Check Behavior.)
 
 - Homestation is equipped with a Wharf, XL Dock, and Repair Wharf. The empire is capable of producing Alarian ships SOLELY off of Alarian outputs alone... do not underestimate our own economy! (Alaria is in possession of numerous BP's to bolster our fleet but we still need to expand our currently available BP's!)
 
