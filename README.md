@@ -5,7 +5,7 @@ lead the Alarian Empire and save the X4 Universe from the ever expanding Xenon t
 
 
 - Massive budgeted start built economy in TER space (Saturn and the Asteroid Belt + a Solar Supply Station in Mercury).
-- Homestation is equipped with a Wharf, XL Dock, and Repair Wharf. The empire capable of producing Alarian ships SOLELY off of Alarian outputs alone... do not underestimate our own economy!
+- Homestation is equipped with a Wharf, XL Dock, and Repair Wharf. The empire is capable of producing Alarian ships SOLELY off of Alarian outputs alone... do not underestimate our own economy!
 - Foundation for another economy ready to be built upon in PIO space.
 - ARG is under attack from the Xenon in Hatikva! THIS SECTOR CANNOT FALL! The rapid response forces of the Alarian, Argon, and Terran empires have been wiped out 
 by the Xenon in hopes to aid the falling sector. The united fleets of the empires are in shambles... can you make do with the present forces at hand while Alaria rebuilds? (WARNING ROUTED ALARIAN FORCES IN HATIKVA WILL BE UNDER HEAVY ASSAULT WITHIN MINUTES OF LOADING THE SAVE)
