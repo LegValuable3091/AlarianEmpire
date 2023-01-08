@@ -1,6 +1,6 @@
 # AlarianEmpire (Place savegame inside of Documents/Egosoft/X4/389150302/save) (The numbered directory "389150302" may be different for you!)
 Alarian Empire X4 Budgeted Start Save-game (NOT MODIFIED)
-With a massive economy already developed and under your command... with the foundations of another ready to be built upon... can YOU
+With a massive economy already developed and under your command... and the foundations of another ready to be built upon... can YOU
 lead the Alarian Empire and save the X4 Universe from the ever expanding Xenon threat?
 
 
